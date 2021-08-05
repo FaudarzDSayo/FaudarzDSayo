@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "minecraft:diamond_boots"
+    },
+    "result": {
+        "item": "minecraft:diamond",
+        "count": 4
+        }
+    "experience": 0.1,
+    "cookingtime": 100
+}
