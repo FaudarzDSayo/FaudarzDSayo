@@ -1,6 +1,8 @@
 {
     "type": "minecraft:blasting",
-    "ingredient": {},
+    "ingredient": {
+        "item": "minecraft:diamond_pickaxe"
+    },
     "result": "minecraft:diamond",
     "experience": 0.1,
     "cookingtime": 200
