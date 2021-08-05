@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:diamond_leggings"
+    },
+    "result": {
+        "item": "minecraft:diamond",
+        "count": 7
+        }
+    "experience": 0.1,
+    "cookingtime": 100
+}
